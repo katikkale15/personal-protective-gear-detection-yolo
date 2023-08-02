@@ -1,2 +1,1 @@
-# personal-protective-gear-detection-yolo
-This project detects if a person is wearing any protective gear, if so which one. This is attained using yolo v7.
+This is a project to demonstrate if a worker is wearing the protective gear or not, it will also print the probability of the protective gear being said detected. There are unique names as opposed to the equipment they represent assigned to each gear to make it cleaner and easy to understand. This is done using yolv7, wherein pre-trained normal coco weights have been taken and have been modified as per the respective application and then tested across an image and 3 demo videos.
